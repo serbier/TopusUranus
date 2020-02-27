@@ -1,0 +1,3 @@
+unhcr-asylum-seekers-determination-col.csv
+    Information about asylum applications in a given year and the progress of asylum-seekers through the refugee status determination process.
+    https://data.humdata.org/dataset/unhcr-asylum-seekers-determination-col
